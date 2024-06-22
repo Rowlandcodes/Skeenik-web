@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Application (ofofon)/introToJsIV"
+		},
+		{
+			"path": "../mrs ope project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Ekobits presentation"
+	}
+}

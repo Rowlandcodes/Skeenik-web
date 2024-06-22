@@ -1,0 +1,24 @@
+.darkmode{
+    width: 50px;
+    background-color: black;
+    border-radius: 165px;
+    align-items: center;
+    margin-left: 600px;
+}
+
+.dark-mode {
+    background-color: rgb(58, 53, 53);
+    color: white;
+  }
+.abt{
+    justify-content: end;
+    height: 300px;
+    margin-right: 60px;
+    border-radius: 20px;
+  }
+  .title{
+    display: flex;
+    justify-content: start;
+    color: black;
+    margin-top: 100px;
+  }

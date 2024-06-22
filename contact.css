@@ -1,0 +1,38 @@
+
+
+.darkmode{
+    width: 50px;
+    background-color: black;
+    border-radius: 165px;
+    align-items: center;
+    margin-left: 600px;
+}
+.Reg{
+    color: white;
+    background: transparent;
+    backdrop-filter: blur(20px);
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 250px  ;
+    height: 500px;
+    width: 450px;
+}
+input{
+    border-radius: 3px;
+    width: 300px;
+    border: none;
+}
+.active{
+    color: peachpuff;
+}
+.page-footer {
+    display: block;
+    background: #272727;
+    margin-top: 20px;
+    border-top: 1px solid #000;
+    color: rgba(255, 255, 255, 0.4);
+}

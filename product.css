@@ -1,0 +1,85 @@
+
+
+.hero{
+display: flex;
+flex-direction: column;
+min-height: 100vh;
+background-image: linear-gradient(rgb(0, 0, 0, 0.50),rgb(0, 0, 0, 0.50)), url(../../Pictures/face-cream-skincare-beauty-face-skin-skin.jpg) ;
+background-repeat: no-repeat;
+background-size:cover ;
+display: flex;
+justify-content: center;
+background-position: center;
+align-items: center;
+color: white;
+text-align: center;
+}
+.hero p{
+    font-size: 20px;
+}
+.head{
+    display: flex;
+    margin-top: 20px;
+    color: black;
+    justify-content: center;
+}
+.cardcontainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    gap: 10px;
+}
+.card{
+    width: 200px;
+    height: 300px;
+    color: black;
+    border-radius: 8px;
+    overflow: hidden;
+     box-shadow: 2px 3px 6px rgb(0, 0, 0, 0.3); 
+    margin: 20px;
+    border: none;
+
+}
+.card img{
+    width: 100%;
+    height: auto;
+}
+.cardcontent{
+    padding: 16px;
+
+}
+.cardcontent h3{
+    font-size: 40px;
+    margin-bottom: 8px;
+}
+.cardcontent p{
+    font-size: 16px;
+    line-height: 1.3;
+    color: black;
+}
+.cardcontent .btn{
+    display: inline-block;
+    padding: 6px 12px;
+     text-decoration: none;
+     color: black;
+     border-radius: 4px;
+     margin-top: 16px;
+     background-color:white;
+}
+.cardcontent .btn :hover{
+    background-color: peachpuff;
+    transition: 0.5s ease-in;
+}
+.darkmode{
+    width: 50px;
+    background-color: black;
+    border-radius: 165px;
+    align-items: center;
+    margin-left: 600px;
+}
+
+.dark-mode {
+    background-color: rgb(58, 53, 53);
+    color: white;
+  }
